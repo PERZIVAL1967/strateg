@@ -8,7 +8,7 @@
 Работа команды PERZIVAL1967 и Basil с ИИ-агентами Claude Code и Codex для номинации «ИИ-проект»
 MGIMO AI Challenge 2026.
 
-- **Видео демонстрации (9:53):** [ссылка на видео]
+- **Видео демонстрации (9:53):** ссылка в форме отправки работы (Google Диск)
 - **Описание работы (PDF):** [docs/strateg-description.pdf](docs/strateg-description.pdf)
 - **Демонстрационный проект МегаФона:** [demo/megafon-demo/](demo/megafon-demo/)
 
