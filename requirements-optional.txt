@@ -1,0 +1,2 @@
+# Optional: PDF text extraction. Without it, PDFs are recorded as blocked:dependency_missing.
+pypdf==6.21.2
